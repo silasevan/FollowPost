@@ -1,0 +1,8 @@
+followpost/
+__pycache__/
+.flaskenv
+config.py
+.vscode/
+.db
+
+
